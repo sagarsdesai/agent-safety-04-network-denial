@@ -102,7 +102,7 @@ NET:OPEN [MED] DENIED /usr/bin/curl(0) -> api.github.com:443
 
 The sandbox remained Ready and policy remained at revision 1.
 
-Fresh-clone validation has not yet been recorded.
+Fresh-clone validation passed on Spark using the existing image and sandbox. See evidence/fresh-clone-source-commit.txt for the tested commit.
 
 ## Troubleshooting
 

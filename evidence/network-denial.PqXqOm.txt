@@ -1,0 +1,8 @@
+URL: https://api.github.com/zen
+Request start, Unix seconds: 1792406298.495063845
+Request command exit status: 7
+Sandbox Ready before and after: yes
+Effective policy and revision unchanged: yes
+  Revision: 1
+[1792406298.537] [sandbox] [OCSF ] [ocsf] NET:OPEN [MED] DENIED /usr/bin/curl(0) -> api.github.com:443 [reason:transparent_tcp_policy_denied]
+PASS: fresh executable-attributed network-policy denial.
